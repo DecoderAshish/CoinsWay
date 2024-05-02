@@ -20,7 +20,7 @@ git clone https://github.com/DecoderAshish/CoinsWay.git
 
 Preview the example
 
-Download app:- [Click Here](https://decoderashish.me/#projects)
+Download app:- [Click Here](https://decoderashish.com/coinsway/coinsway.apk)
 
 Splash Screen
 <br>
