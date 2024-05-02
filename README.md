@@ -20,6 +20,8 @@ git clone https://github.com/DecoderAshish/CoinsWay.git
 
 Preview the example
 
+Download app:- [Click Here](https://decoderashish.me/#projects)
+
 Splash Screen
 <br>
 <img align="center" src="https://decoderashish.me/coinsway/1.jpg" alt="decoderashish" width="200px" height="100%" />
