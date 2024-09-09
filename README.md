@@ -24,16 +24,16 @@ Download app:- [Click Here](https://decoderashish.com/coinsway/coinsway.apk)
 
 Splash Screen
 <br>
-<img align="center" src="https://decoderashish.me/coinsway/1.jpg" alt="decoderashish" width="200px" height="100%" />
+<img align="center" src="https://decoderashish.com/coinsway/1.jpg" alt="decoderashish" width="200px" height="100%" />
 
 Home Page
 <br>
-<img align="center" src="https://decoderashish.me/coinsway/2.jpg" alt="decoderashish" width="200px" height="100%" />
+<img align="center" src="https://decoderashish.com/coinsway/2.jpg" alt="decoderashish" width="200px" height="100%" />
 
 Crypto page
 <br>
-<img align="center" src="https://decoderashish.me/coinsway/3.jpg" alt="decoderashish" width="200px" height="100%" />
+<img align="center" src="https://decoderashish.com/coinsway/3.jpg" alt="decoderashish" width="200px" height="100%" />
 
 Currency Convertor Page
 <br>
-<img align="center" src="https://decoderashish.me/coinsway/4.jpg" alt="decoderashish" width="200px" height="100%" />
+<img align="center" src="https://decoderashish.com/coinsway/4.jpg" alt="decoderashish" width="200px" height="100%" />
